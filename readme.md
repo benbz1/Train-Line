@@ -1,7 +1,16 @@
 
 # Subway System Challenge
 
-This project contains the Subway System API desribed in part 1 & 2 of the challenge, designed to manage train lines, stations, connections, and card transactions. 
+This project involves the development of a Subway System API designed to manage various aspects of a subway network. The API includes functionality for:
+
+1. Train Lines Management: Handling the creation, update, and deletion of train lines.
+2. Stations Management: Managing subway stations, including their details and status.
+3. Connections Management: Establishing and maintaining connections between stations.
+4. Card Transactions: Processing and tracking transactions made using subway cards.
+
+The project is implemented using:
+* PostgreSQL: For the database management.
+* Node.js: For server-side development.
 
 ## Prerequisites
 - [Docker](https://www.docker.com/)
