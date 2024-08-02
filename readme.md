@@ -1,5 +1,5 @@
 
-# Subway system challenge
+# Subway System Challenge
 
 This project contains the Subway System API desribed in part 1 & 2 of the challenge, designed to manage train lines, stations, connections, and card transactions. 
 
